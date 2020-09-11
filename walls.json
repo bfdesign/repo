@@ -1,14 +1,68 @@
 [
 	{
 		"author": "Hampus Olsson",
+		"url": "https://raw.githubusercontent.com/bfdesign/repo/master/OnePlus%20Nord%20-%20Stone.jpg",
+		"name": "OnePlus Nord - Stone",
+		"thumbUrl": "https://raw.githubusercontent.com/bfdesign/repo/master/OnePlus%20Nord%20-%20Stone.jpg"
+	},
+	{
+		"author": "Hampus Olsson",
+		"url": "https://raw.githubusercontent.com/bfdesign/repo/master/OnePlus%20Nord%20-%20Glacial.jpg",
+		"name": "OnePlus Nord - Glacial",
+		"thumbUrl": "https://raw.githubusercontent.com/bfdesign/repo/master/OnePlus%20Nord%20-%20Glacial.jpg"
+	},
+	{
+		"author": "Hampus Olsson",
+		"url": "https://raw.githubusercontent.com/bfdesign/repo/master/OnePlus%208%20-%204.jpg",
+		"name": "OnePlus 8 - 4",
+		"thumbUrl": "https://raw.githubusercontent.com/bfdesign/repo/master/OnePlus%208%20-%204.jpg"
+	},
+	{
+		"author": "Hampus Olsson",
+		"url": "https://raw.githubusercontent.com/bfdesign/repo/master/OnePlus%208%20-%203.jpg",
+		"name": "OnePlus 8 - 3",
+		"thumbUrl": "https://raw.githubusercontent.com/bfdesign/repo/master/OnePlus%208%20-%203.jpg"
+	},
+	{
+		"author": "Hampus Olsson",
+		"url": "https://raw.githubusercontent.com/bfdesign/repo/master/OnePlus%208%20-%202.jpg",
+		"name": "OnePlus 8 - 2",
+		"thumbUrl": "https://raw.githubusercontent.com/bfdesign/repo/master/OnePlus%208%20-%202.jpg"
+	},
+	{
+		"author": "Hampus Olsson",
+		"url": "https://raw.githubusercontent.com/bfdesign/repo/master/OnePlus%208%20-%201.jpg",
+		"name": "OnePlus 8 - 1",
+		"thumbUrl": "https://raw.githubusercontent.com/bfdesign/repo/master/OnePlus%208%20-%201.jpg"
+	},
+	{
+		"author": "Hampus Olsson",
+		"url": "https://raw.githubusercontent.com/bfdesign/repo/master/OPTV%20-%201.jpg",
+		"name": "OPTV - 1",
+		"thumbUrl": "https://raw.githubusercontent.com/bfdesign/repo/master/OPTV%20-%201.jpg"
+	},
+	{
+		"author": "Hampus Olsson",
+		"url": "https://raw.githubusercontent.com/bfdesign/repo/master/OP7T%20Pro%20-%20McLaren%20Edition%203.jpg",
+		"name": "OP7T Pro - McLaren Edition 3",
+		"thumbUrl": "https://raw.githubusercontent.com/bfdesign/repo/master/OP7T%20Pro%20-%20McLaren%20Edition%203.jpg"
+	},
+	{
+		"author": "Hampus Olsson",
+		"url": "https://raw.githubusercontent.com/bfdesign/repo/master/OP7T%20Pro%20-%20McLaren%20Edition%202.jpg",
+		"name": "OP7T Pro - McLaren Edition 2",
+		"thumbUrl": "https://raw.githubusercontent.com/bfdesign/repo/master/OP7T%20Pro%20-%20McLaren%20Edition%202.jpg"
+	},
+	{
+		"author": "Hampus Olsson",
+		"url": "https://raw.githubusercontent.com/bfdesign/repo/master/OP7T%20Pro%20-%20McLaren%20Edition%201.jpg",
+		"name": "OP7T Pro - McLaren Edition 1",
+		"thumbUrl": "https://raw.githubusercontent.com/bfdesign/repo/master/OP7T%20Pro%20-%20McLaren%20Edition%201.jpg"
+	},
+	{
+		"author": "Hampus Olsson",
 		"url": "https://raw.githubusercontent.com/bfdesign/repo/master/OP7%20-%201.jpg",
 		"name": "OP7 - 1",
 		"thumbUrl": "https://raw.githubusercontent.com/bfdesign/repo/master/OP7%20-%201.jpg"
-	},
-	{
-		"author": "Linda Xu",
-		"url": "https://images.unsplash.com/photo-1458532239918-14dabba19de5",
-		"name": "Bike",
-		"thumbUrl": "https://images.unsplash.com/photo-1458532239918-14dabba19de5?dpr=2&auto=compress,format&crop=entropy&fit=crop&w=540&h=600&q=80&cs=tinysrgb"
 	}
 ]
