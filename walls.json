@@ -6,6 +6,42 @@
 		"thumbUrl": "https://raw.githubusercontent.com/bfdesign/repo/master/Eclipse.png"
 	},
 	{
+		"author": "Oppo",
+		"url": "https://raw.githubusercontent.com/bfdesign/repo/master/Blue-Mountain-Oppo.png",
+		"name": "Blue Mountain",
+		"thumbUrl": "https://raw.githubusercontent.com/bfdesign/repo/master/Blue-Mountain-Oppo.png"
+	},
+	{
+		"author": "Google",
+		"url": "https://raw.githubusercontent.com/bfdesign/repo/master/Delight-Pixel-3.png",
+		"name": "Delight Pixel",
+		"thumbUrl": "https://raw.githubusercontent.com/bfdesign/repo/master/Delight-Pixel-3.png"
+	},
+	{
+		"author": "Google",
+		"url": "https://raw.githubusercontent.com/bfdesign/repo/master/Earth-Pixel-3.png",
+		"name": "Earth Pixel",
+		"thumbUrl": "https://raw.githubusercontent.com/bfdesign/repo/master/Earth-Pixel-3.png"
+	},
+	{
+		"author": "Oppo",
+		"url": "https://raw.githubusercontent.com/bfdesign/repo/master/Fervent-Interstellar-Oppo.jpg",
+		"name": "Fervent Interstellar",
+		"thumbUrl": "https://raw.githubusercontent.com/bfdesign/repo/master/Fervent-Interstellar-Oppo.jpg"
+	},
+	{
+		"author": "Oppo",
+		"url": "https://raw.githubusercontent.com/bfdesign/repo/master/Fluid-Oppo.jpeg",
+		"name": "Fluid R11",
+		"thumbUrl": "https://raw.githubusercontent.com/bfdesign/repo/master/Fluid-Oppo.jpeg"
+	},
+	{
+		"author": "Xiaomi",
+		"url": "https://raw.githubusercontent.com/bfdesign/repo/master/Poco-F1-Xiaomi.jpeg",
+		"name": "Poco F1",
+		"thumbUrl": "https://raw.githubusercontent.com/bfdesign/repo/master/Poco-F1-Xiaomi.jpeg"
+	},
+	{
 		"author": "Hampus Olsson",
 		"url": "https://raw.githubusercontent.com/bfdesign/repo/master/OnePlus%20Nord%20-%20Stone.jpg",
 		"name": "OnePlus Nord - Stone",
